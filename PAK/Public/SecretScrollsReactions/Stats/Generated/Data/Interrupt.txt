@@ -1,0 +1,7 @@
+new entry "Interrupt_HellishRebuke_Scroll"
+type "InterruptData"
+using "Interrupt_HellishRebuke"
+
+new entry "Interrupt_Shield_Scroll"
+type "InterruptData"
+using "Interrupt_Shield_Wizard"
