@@ -1,7 +1,14 @@
+new entry "Interrupt_Counterspell_Scroll"
+type "InterruptData"
+using "Interrupt_Counterspell"
+data "Cost" "ReactionActionPoint:1"
+
 new entry "Interrupt_HellishRebuke_Scroll"
 type "InterruptData"
 using "Interrupt_HellishRebuke"
+data "Cost" "ReactionActionPoint:1"
 
 new entry "Interrupt_Shield_Scroll"
 type "InterruptData"
 using "Interrupt_Shield_Wizard"
+data "Cost" "ReactionActionPoint:1"
